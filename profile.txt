@@ -1,5 +1,5 @@
 Name: Syazana
 Matric Number: 251594946
-Course: Software Development New
+Course: Software Dev (MAIN VERSION)
 Hobbies: Reading, Gaming
 Skills: Git, GitHub
