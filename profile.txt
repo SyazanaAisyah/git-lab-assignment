@@ -1,5 +1,5 @@
 Name: Syazana
 Matric Number: 251594946
-Course: Web Dev (BRANCH VERSION)
+Course: SDM
 Hobbies: Reading, Gaming
 Skills: Git, GitHub
